@@ -1,0 +1,7 @@
+.venv/*
+.log
+options.json
+*.pyc
+*.pyo
+*.pyd
+__pycache__

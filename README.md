@@ -2,7 +2,7 @@
 # Purpose
 Addon for Homeassistant to add sensor sources for Ecoflow products, using the developer api.
 
-The addon subscribes to the Ecoflow MQTT server and publishes the updates to an other MQTT server (preferrably in the your home network).
+The addon subscribes to the Ecoflow MQTT server and publishes the updates to an other MQTT server (preferrably in your home network).
 
 In Homeassistant, you can set up sensor sources in the configuration.yaml like this: 
 
